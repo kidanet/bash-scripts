@@ -1,7 +1,7 @@
 # Bash Scripts by Tseggai Kidane
 
-A collection of practical Bash scripts 
-Retired technologist
+A collection of practical Bash scripts,
+retired technologist,
 showcasing Linux expertise.
 
 ## Scripts
